@@ -1,0 +1,160 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "skills": "Skills",
+    "projects": "",
+    "awards": "",
+    "education": "Education",
+    "work": "Experience"
+  },
+  "basics": {
+    "name": "José Alves de Figueiredo Neto",
+    "email": "josealves7jk@gmail.com",
+    "website": "https://www.linkedin.com/in/jose-alves-dev/",
+    "location": {
+      "address": "Campina Grande, PB"
+    },
+    "phone": "+55 (83) 999544996"
+  },
+  "education": [
+    {
+      "institution": "Universidade Federal de Campina Grande (UFCG)",
+      "endDate": "December 2024",
+      "gpa": "",
+      "location": "Campina Grande, PB",
+      "studyType": "BS",
+      "area": "Computer Science",
+      "startDate": "August 2019"
+    },
+    {
+      "institution": "MITx",
+      "area": " 16.00x: Introduction to Aerospace Engineering: Astronautics and Human Spaceflight",
+      "location": "Online",
+      "endDate": "August 2019",
+      "startDate": "June 2019"
+    },
+    {
+      "area": "Scrum Fundamentals Certified",
+      "institution": "ScrumStudy",
+      "endDate": "November 2022",
+      "location": "Online",
+      "startDate": "November 2022"
+    },
+    {
+      "institution": " IBM ML0120EN: Deep Learning with TensorFlow",
+      "area": "Deep learning",
+      "endDate": "July 2023",
+      "startDate": "July 2023"
+    },
+    {
+      "institution": "freeCodeCamp",
+      "area": "Responsive Web Design",
+      "endDate": "July 2023",
+      "startDate": "July 2023"
+    }
+  ],
+  "work": [
+    {
+      "location": "Recife, PE",
+      "position": "Software engineer",
+      "website": "",
+      "startDate": "August de 2022",
+      "highlights": [
+        "Responsible for developing Web and Android Mobile applications.",
+        "Development of new features.",
+        " Bug resolution and maintenance of legacy code with a focus on performance and UX.",
+        "Integrated APIs such as PagSeguro, Twillio and MercadoPago into Web and Mobile applications, improving the functionality of payment to the user.",
+        "Reduced web application loading times by approximately 70%, improving the user experience."
+      ],
+      "company": "Mobixtec",
+      "endDate": "September de 2023"
+    },
+    {
+      "highlights": [
+        " Coordinate a small team in a reproduction and research project.",
+        " Software development for object recognition.",
+        "Software development for control and automation.",
+        "Preparation of mini courses and training for new members.",
+        " Development of applications using IoT."
+      ],
+      "company": "IEEE RAS UFCG",
+      "position": "Project coordinator",
+      "location": "Campina Grande, PB",
+      "startDate": "January de 2023",
+      "endDate": "Presente"
+    },
+    {
+      "highlights": [
+        "Preparation of mini courses and training for new members.",
+        "Development of mobile robots.",
+        " Development of applications involving facial recognition."
+      ],
+      "company": "IEEE RAS UFCG",
+      "position": " Volunteer researcher",
+      "location": "Campina grande, PB",
+      "startDate": "Agosto de 2022",
+      "endDate": "Janeiro de 2023"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "Java",
+        "JavaScript",
+        "C++",
+        "C#",
+        "Haskell",
+        "Golang"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "React",
+        "Android nativo",
+        "Springboot",
+        "Node.js",
+        "JQuery"
+      ],
+      "name": "Frameworks"
+    },
+    {
+      "keywords": [
+        "Keras",
+        "NumPy",
+        "Pandas",
+        "TensorFlow"
+      ],
+      "name": "Machine learning/Deep learning"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "education",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
